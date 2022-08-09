@@ -1,2 +1,9 @@
-R/secret.txt
+.RData
+.Renviron
+.Rhistory
+.Rprofile
 .Rproj.user
+
+calculate-ice.Rproj
+
+R/secret.txt
